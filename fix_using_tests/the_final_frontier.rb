@@ -11,5 +11,5 @@ end
 
 def engage
   star_date = generate_star_date
-  puts state_log
+  puts "Captain's Log, star date #{star_date}."
 end
