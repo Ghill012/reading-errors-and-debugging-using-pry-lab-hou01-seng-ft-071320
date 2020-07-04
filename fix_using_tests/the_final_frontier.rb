@@ -12,4 +12,5 @@ end
 
 def engage
   puts state_log
+  puts generate_star_date
 end
